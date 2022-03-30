@@ -1,0 +1,107 @@
+=====================================================
+
+
+   Operating System (OS) = LINUX OR Windows, Solaris       
+=====================================================
+Laptop or other Personal Computer:
+Servers:
+  Operating System is the heart of the Computer/servers 
+
+  Windows -- OS 
+     Licence 
+  Linux -- OS 
+     Open source 
+  macOS 
+
+Solaris ---> paid 
+Linux -- 
+Solaris kernel and Developed the Linux kernel 
+1991 Linus 
+  Solaris 
+     kernel 
+       Developed LINUX OS from Solaris kernel  
+
+Open source vs FREE OS 
+Open source: -- both the source codes
+               and the softwares is free 
+Free: --- ONLY the the softwares is free  
+Licence technology: softwares is not free
+
+KFC     / Coca cola:   GoodChicken (GC) 
+recipe    recipe        Open source 
+
+  ssh-client = ssh = secure shell = 22
+
+LandmarkTech:
+  servers: 90% are Linux (running a linus os/dist)
+           10% are Windows   
+  work stations: 
+    Windows --> 50 Windows 
+    MacOS   ---> 40 Mac Laptop
+    others  ---> 10 
+
+Virtual servers hosted in AWS  ---> Cloud Computing 
+INSTALL AND RUN A DATA CENTER
+  aws - amazon web services  : 
+         AWS is hosting our  LINUX servers  =  
+
+    aws.amazon.com 
+email: landmarkunive@gmail.com
+passwd: 
+
+RedHat Server in AWS = EC2 :
+
+Windows Loptop: 
+ ssh-client ----softwares use to connect to any Linux servers
+  mobaXterm --1
+  git bash  --2
+  putty
+  PowerShell & Command prompt 
+
+MacOS Laptop:
+   Terminal 
+   GIT-Bash
+
+How servers or PC are managed?
+How are tasks performed in servers? 
+    GUI = Graphical user interface 
+    CLI = Command LINE  interface
+
+Git bash installation:
+   https://git-scm.com 
+
+Operating
+  Linux   - Linus
+  Windows - Bill Gates
+
+How to access a Linus server running in AWS:
+  username: ec2-user / Etech-admin
+  
+  authentication:
+    password authentication: admin@124
+    multi-factor authentication (password + code):
+
+    ssh key 
+
+  ssh-client -- putty / Git bash / mobaXterm 
+
+  Server's address: ip-address, dns 
+
+      ssh jane@demoServer or  ssh jane@10.1.10.2
+      ssh jane@appServer  0r  ssh jane@10.10.10.8
+      ssh jane@dbServer   0r  ssh -i key27.pem jane@10.10.10.8
+
+      ssh userName@ip-address
+
+  Firewall is open on required ports: 
+
+   SSH = Secure SHELL 
+
+   ssh userName@ip-address
+
+cd Downloads 
+ssh -i "class27key.pem" ec2-user@ec2-3-133-151-47.us-east-2.compute.amazonaws.com
+
+ ssh 
+
+Linux comands:
